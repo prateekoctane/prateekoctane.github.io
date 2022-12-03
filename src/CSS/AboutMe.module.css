@@ -1,0 +1,31 @@
+#heading{
+    text-shadow: 5px 5px #c3c0bf;
+}
+#text{
+    text-shadow: 5px 5px #c3c0bf;
+}
+@media only screen and (max-width: 800px) {
+   
+    #card{
+        width: 500px;
+    }
+    
+}
+
+@media only screen and (max-width: 550px) {
+   
+    #card{
+        width: 350px;
+        margin-top: 50px;
+    }
+    #btn{
+        display:block;
+        width: 200px;
+        margin: auto;
+    }
+    #contact{
+        margin:auto;
+        margin-top: 20px;
+    }
+    
+}
