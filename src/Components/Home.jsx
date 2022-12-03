@@ -8,7 +8,7 @@ export function Home() {
     display="flex"
     justifyContent="space-evenly"
     alignItems="center"
-    border="1px solid whitesmoke">
+    >
       <Box
         w="100%"
         h="500px"
